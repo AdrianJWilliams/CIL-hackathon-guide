@@ -10,7 +10,7 @@ description: >-
 
 **Universal Music Group have made a some of their songs available for this hackathon**
 
-* ≈ 20,000 songs
+* ≈ 14,000 songs
 * ≈ 1,500 unique artists
 * ≈ 5,000 albums/singles
 * Covers many genres, rock, pop, country....etc
